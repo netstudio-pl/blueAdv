@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <przesylka>przesylka_testowa</przesylka>
+  <nadawca>nadawca_testowy</nadawca>
+  <data_od>2016-04-01</data_od>
+  <data_do>2016-04-30</data_do>
+  <godz_od>00:00</godz_od>
+  <godz_do>00:00</godz_do>
+  <rozsylka>1</rozsylka>
+</configuration>
